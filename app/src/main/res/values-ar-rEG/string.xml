@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MaterialMeStarter2</string>
+
+    <string name="title_placeholder">العنوان</string>
+    <string name="news_placeholder">اخبار</string>
+    <string name="sports_info_placeholder">إليكم بعض الأخبار</string>
+
+    <string name="filler_text">قدم خالد لطيف ومحمد أبو الوفا عضوا مجلس إدارة اتحاد الكرة، المشرفان على كرة الصالات، التهنئة للمنتخب الوطني للشباب بعد الفوز بالميدالية البرونزية فى أولمبياد الشباب، حيث أجريا اتصالات هاتفية بجميع أعضاء الجهاز الفني واللاعبين لتحيتهم، مؤكدين على أن اتحاد كرة القدم في طريقه لتنظيم حفل تكريم كبير للفريق لدى عودته إلى أرض الوطن يليق والإنجاز الذي تحقق.فى هذا الصدد، وجه هشام صالح المدير الفني للمنتخب الوطني لكرة الصالات، الشكر لمجلس إدارة الاتحاد المصري لكرة القدم برئاسة المهندس هاني أبو ريدة على دعمه اللا محدود لمنتخبات كرة الصالات حتى تكللت جهوده بالفوز بالميدالية البرونزية للألعاب الأولمبية للشباب.</string>
+
+    <string-array name="sports_titles">
+        <item>البيسبول</item>
+        <item>تنس الريشة</item>
+        <item>كرة سلة</item>
+        <item>البولينج</item>
+        <item>ركوب الدراجات</item>
+        <item>جولف</item>
+        <item>جري</item>
+        <item>كرة القدم</item>
+        <item>سباحة</item>
+        <item>تنس طاولة</item>
+        <item>تنس</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>هنا بعض أخبار البيسبول!</item>
+        <item>هنا بعض أخبار تنس الريشة!</item>
+        <item>هنا بعض أخبار كرة سلة!</item>
+        <item>هنا بعض أخبار البولينج!</item>
+        <item>هنا بعض أخبار ركوب الدراجات!</item>
+        <item>هنا بعض أخبار جولف!</item>
+        <item>هنا بعض أخبار جري!</item>
+        <item>هنا بعض أخبار كرة القدم!</item>
+        <item>هنا بعض أخبار سباحة!</item>
+        <item>هنا بعض أخبار تنس طاولة!</item>
+        <item>هنا بعض أخبار تنس!</item>
+    </string-array>
+
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+
+
+
+</resources>
